@@ -648,39 +648,6 @@ box-shadow:0 20px 50px rgba(0,0,0,.3);
 
 }
 
-/* ==========================================
-FAQ
-========================================== */
-
-.faq{
-
-max-width:850px;
-
-margin:auto;
-
-padding:30px;
-
-background:rgba(255,255,255,.04);
-
-border-radius:20px;
-
-border:1px solid rgba(255,255,255,.08);
-
-}
-
-.faq p{
-
-padding:18px 0;
-
-border-bottom:1px solid rgba(255,255,255,.05);
-
-}
-
-.faq p:last-child{
-
-border:none;
-
-}
 
 /* ==========================================
 CONTACT
