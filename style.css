@@ -1233,3 +1233,13 @@ text-align:center;
 margin-top:15px;
 
 }
+.logo{
+    font-size:28px;
+    font-weight:700;
+    font-family:"Space Grotesk",sans-serif;
+    letter-spacing:-0.5px;
+}
+
+.logo span{
+    color:#4F8CFF;
+}
