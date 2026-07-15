@@ -944,3 +944,49 @@ padding:25px;
 }
 
 }
+
+.hidden{
+
+opacity:0;
+
+transform:translateY(70px);
+
+transition:.8s ease;
+
+}
+
+.show{
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+.faq p{
+
+cursor:pointer;
+
+transition:.3s;
+
+}
+
+.faq p:hover{
+
+color:#4F8CFF;
+
+padding-left:12px;
+
+}
+
+.active{
+
+color:#4F8CFF;
+
+}
+
+html{
+
+scroll-behavior:smooth;
+
+}
