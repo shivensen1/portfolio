@@ -1260,3 +1260,34 @@ margin-top:15px;
 .logo span{
     color:#4F8CFF;
 }
+.hero-stats{
+
+display:flex;
+
+gap:60px;
+
+margin-top:70px;
+
+}
+
+.hero-stats h2{
+
+font-size:42px;
+
+margin-bottom:8px;
+
+background:linear-gradient(90deg,#4F8CFF,#00E5FF);
+
+-webkit-background-clip:text;
+
+-webkit-text-fill-color:transparent;
+
+}
+
+.hero-stats p{
+
+color:#A1A1AA;
+
+font-size:15px;
+
+}
