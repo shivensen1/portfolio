@@ -214,18 +214,5 @@ update();
 
 });
 
-// =========================
-// Simple FAQ
-// =========================
-
-document.querySelectorAll(".faq p").forEach(item=>{
-
-item.addEventListener("click",()=>{
-
-item.classList.toggle("active");
-
-});
-
-});
 
 console.log("Premium Portfolio Loaded");
