@@ -187,11 +187,61 @@ padding:18px 0;
 
 .logo{
 
-font-size:24px;
+display:flex;
 
-font-weight:800;
+flex-direction:column;
 
-letter-spacing:1px;
+text-decoration:none;
+
+line-height:1;
+
+}
+
+.logo-top{
+
+font-family:"Space Grotesk",sans-serif;
+
+font-size:28px;
+
+font-weight:700;
+
+color:#fff;
+
+letter-spacing:-1px;
+
+}
+
+.logo-bottom{
+
+font-family:"Inter",sans-serif;
+
+font-size:15px;
+
+font-weight:500;
+
+color:#A1A1AA;
+
+margin-top:4px;
+
+letter-spacing:.5px;
+
+}
+
+.dot{
+
+color:#4F8CFF;
+
+font-size:18px;
+
+font-weight:700;
+
+transition:.3s;
+
+}
+
+.logo:hover .dot{
+
+text-shadow:0 0 15px #4F8CFF;
 
 }
 
